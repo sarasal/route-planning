@@ -1,0 +1,427 @@
+[
+	{
+		
+		"question_id": "04_01",
+		"questionnaire_flow": "post_test",
+		"questionnaire_type": "trust_in_automation",
+		"question_group": "reliability_competence",
+		"question": "The system is capable of interpreting situations correctly.",
+		"answer_list": ["strongly disagree", "rather disagree", "neither disagree nor agree", "rather agree", "strongly agree"],
+		"likert_scale": 5
+	},
+	{
+		"question_id": "05_01",
+		"questionnaire_flow": "post_test",
+		"questionnaire_type": "trust_in_automation",
+		"question_group": "understanding_predictability",
+		"question": "The system state was always clear to me.",
+		"answer_list": ["strongly disagree", "rather disagree", "neither disagree nor agree", "rather agree", "strongly agree"],
+		"likert_scale": 5
+	},
+	{
+		"question_id": "06_01",
+		"questionnaire_flow": "post_test",
+		"questionnaire_type": "trust_in_automation",
+		"question_group": "familiarity",
+		"question": "I already know similar systems.",
+		"answer_list": ["strongly disagree", "rather disagree", "neither disagree nor agree", "rather agree", "strongly agree"]	,
+		"likert_scale": 5
+	},
+	{
+		"question_id": "07_01",
+		"questionnaire_flow": "post_test",
+		"questionnaire_type": "trust_in_automation",
+		"question_group": "intention_of_developers",
+		"question": "The developers are trustworthy.",
+		"answer_list": ["strongly disagree", "rather disagree", "neither disagree nor agree", "rather agree", "strongly agree"]	,
+		"likert_scale": 5
+	},
+	{
+		"question_id": "08_01",
+		"questionnaire_flow": "post_test",
+		"questionnaire_type": "trust_in_automation",
+		"question_group": "propensity_to_trust",
+		"question": "One should be careful with unfamiliar automated systems.",
+		"answer_list": ["strongly disagree", "rather disagree", "neither disagree nor agree", "rather agree", "strongly agree"]	,
+		"likert_scale": 5
+	},
+	{
+		"question_id": "04_02",
+		"questionnaire_flow": "post_test",
+		"questionnaire_type": "trust_in_automation",
+		"question_group": "reliability_competence",
+		"question": "The system works reliably.",
+		"answer_list": ["strongly disagree", "rather disagree", "neither disagree nor agree", "rather agree", "strongly agree"]	,
+		"likert_scale": 5
+	},
+	{
+		"question_id": "05_02",
+		"questionnaire_flow": "post_test",
+		"questionnaire_type": "trust_in_automation",
+		"question_group": "understanding_predictability",
+		"question": "The system reacts unpredictably.",
+		"answer_list": ["strongly disagree", "rather disagree", "neither disagree nor agree", "rather agree", "strongly agree"]	,
+		"likert_scale": 5
+	},
+	{
+		"question_id": "07_02",
+		"questionnaire_flow": "post_test",
+		"questionnaire_type": "trust_in_automation",
+		"question_group": "intention_of_developers",
+		"question": "The developers take my well-being seriously.",
+		"answer_list": ["strongly disagree", "rather disagree", "neither disagree nor agree", "rather agree", "strongly agree"]	,
+		"likert_scale": 5
+	},
+	{
+		"question_id": "09_01",
+		"questionnaire_flow": "post_test",
+		"questionnaire_type": "trust_in_automation",
+		"question_group": "trust_in_automation",
+		"question": "I trust the system.",
+		"answer_list": ["strongly disagree", "rather disagree", "neither disagree nor agree", "rather agree", "strongly agree"]	,
+		"likert_scale": 5
+	},
+	{
+		"question_id": "04_03",
+		"questionnaire_flow": "post_test",
+		"questionnaire_type": "trust_in_automation",
+		"question_group": "reliability_competence",
+		"question": "A system malfunction is likely.",
+		"answer_list": ["strongly disagree", "rather disagree", "neither disagree nor agree", "rather agree", "strongly agree"]	,
+		"likert_scale": 5
+	},
+	{
+		"question_id": "00_03",
+		"questionnaire_flow": "post_test",
+		"questionnaire_type": "attention_check",
+		"question_group": "attention_check",
+		"question": "Out of all the items available, choose the number.",
+		"answer_list": ["book", "happy", "kitchen", "lion", "eighteen"],
+		"likert_scale": 5
+	},
+	{
+		"question_id": "05_03",
+		"questionnaire_flow": "post_test",
+		"questionnaire_type": "trust_in_automation",
+		"question_group": "understanding_predictability",
+		"question": "I was able to understand why things happened.",
+		"answer_list": ["strongly disagree", "rather disagree", "neither disagree nor agree", "rather agree", "strongly agree"]	,
+		"likert_scale": 5
+	},
+	{
+		"question_id": "08_02",
+		"questionnaire_flow": "post_test",
+		"questionnaire_type": "trust_in_automation",
+		"question_group": "propensity_to_trust",
+		"question": "I rather trust a system than I mistrust it.",
+		"answer_list": ["strongly disagree", "rather disagree", "neither disagree nor agree", "rather agree", "strongly agree"]	,
+		"likert_scale": 5
+	},
+	{
+		"question_id": "04_04",
+		"questionnaire_flow": "post_test",
+		"questionnaire_type": "trust_in_automation",
+		"question_group": "reliability_competence",
+		"question": "The system is capable of taking over complicated tasks.",
+		"answer_list": ["strongly disagree", "rather disagree", "neither disagree nor agree", "rather agree", "strongly agree"]	,
+		"likert_scale": 5
+	},
+	{
+		"question_id": "09_02",
+		"questionnaire_flow": "post_test",
+		"questionnaire_type": "trust_in_automation",
+		"question_group": "trust_in_automation",
+		"question": "I can rely on the system.",
+		"answer_list": ["strongly disagree", "rather disagree", "neither disagree nor agree", "rather agree", "strongly agree"]	,
+		"likert_scale": 5
+	},
+	{
+		"question_id": "04_05",
+		"questionnaire_flow": "post_test",
+		"questionnaire_type": "trust_in_automation",
+		"question_group": "reliability_competence",
+		"question": "The system might make sporadic errors.",
+		"answer_list": ["strongly disagree", "rather disagree", "neither disagree nor agree", "rather agree", "strongly agree"]	,
+		"likert_scale": 5
+	},
+	{
+		"question_id": "05_04",
+		"questionnaire_flow": "post_test",
+		"questionnaire_type": "trust_in_automation",
+		"question_group": "understanding_predictability",
+		"question": "It is difficult to identify what the system will do next.",
+		"answer_list": ["strongly disagree", "rather disagree", "neither disagree nor agree", "rather agree", "strongly agree"]	,
+		"likert_scale": 5
+	},
+	{
+		"question_id": "06_02",
+		"questionnaire_flow": "post_test",
+		"questionnaire_type": "trust_in_automation",
+		"question_group": "familiarity",
+		"question": "I have already used similar systems.",
+		"answer_list": ["strongly disagree", "rather disagree", "neither disagree nor agree", "rather agree", "strongly agree"]	,
+		"likert_scale": 5
+	},
+	{
+		"question_id": "08_03",
+		"questionnaire_flow": "post_test",
+		"questionnaire_type": "trust_in_automation",
+		"question_group": "propensity_to_trust",
+		"question": "Automated systems generally work well",
+		"answer_list": ["strongly disagree", "rather disagree", "neither disagree nor agree", "rather agree", "strongly agree"],
+		"likert_scale": 5
+	},
+	{
+		"question_id": "04_06",
+		"questionnaire_flow": "post_test",
+		"questionnaire_type": "trust_in_automation",
+		"question_group": "reliability_competence",
+		"question": "I am confident about the system’s capabilities.",
+		"answer_list": ["strongly disagree", "rather disagree", "neither disagree nor agree", "rather agree", "strongly agree"],
+		"likert_scale": 5
+	},
+	
+	{
+		"question_id": "10_01",
+		"questionnaire_flow": "post_test",
+		"questionnaire_type": "open",
+		"question_group": "general",
+		"question": "Please don't hesitate to share with us your thoughts and opinions regarding this research. (optional)",
+		"answer_list": [],
+		"likert_scale": 0
+	},
+	{
+		"question_id": "11_02",
+		"questionnaire_flow": "post_test",
+		"questionnaire_type": "decision_making",
+		"question_group": "information_goals",
+		"question": "Study the degree of difficulty of the decision.",
+		"answer_list": [-1],
+		"likert_scale": 1
+	},
+	{
+		"question_id": "11_03",
+		"questionnaire_flow": "post_test",
+		"questionnaire_type": "decision_making",
+		"question_group": "information_goals",
+		"question": "Organize the action sequence if the decision is complex.",
+		"answer_list": [-1],
+		"likert_scale": 1
+	},
+	{
+		"question_id": "11_12",
+		"questionnaire_flow": "post_test",
+		"questionnaire_type": "decision_making",
+		"question_group": "uncertainty",
+		"question": "Overcome doubtful aspects.",
+		"answer_list": [-1],
+		"likert_scale": 1
+	},
+	{
+		"question_id": "11_14",
+		"questionnaire_flow": "post_test",
+		"questionnaire_type": "decision_making",
+		"question_group": "information_goals",
+		"question": "Gather as much information as possible about the decision.",
+		"answer_list": [-1],
+		"likert_scale": 1
+	},
+	{
+		"question_id": "11_20",
+		"questionnaire_flow": "post_test",
+		"questionnaire_type": "decision_making",
+		"question_group": "uncertainty",
+		"question": "Quickly change my preferences if things go wrong.",
+		"answer_list": [-1],
+		"likert_scale": 1
+	},
+	{
+		"question_id": "11_24",
+		"questionnaire_flow": "post_test",
+		"questionnaire_type": "decision_making",
+		"question_group": "information_goals",
+		"question": "Discover the key information about the decision.",
+		"answer_list": [-1],
+		"likert_scale": 1
+	},
+	{
+		"question_id": "11_25",
+		"questionnaire_flow": "post_test",
+		"questionnaire_type": "decision_making",
+		"question_group": "time_money_pressure",
+		"question": "Evaluate the available time in which to make my decision.",
+		"answer_list": [-1],
+		"likert_scale": 1
+	},
+	{
+		"question_id": "11_26",
+		"questionnaire_flow": "post_test",
+		"questionnaire_type": "decision_making",
+		"question_group": "time_money_pressure",
+		"question": "Organize the actions depending on the time.",
+		"answer_list": [-1],
+		"likert_scale": 1
+	},
+	{
+		"question_id": "11_28",
+		"questionnaire_flow": "post_test",
+		"questionnaire_type": "decision_making",
+		"question_group": "information_goals",
+		"question": "Realize which information is lacking.",
+		"answer_list": [-1],
+		"likert_scale": 1
+	},
+	{
+		"question_id": "11_29",
+		"questionnaire_flow": "post_test",
+		"questionnaire_type": "decision_making",
+		"question_group": "information_goals",
+		"question": "Define the desired goals.",
+		"answer_list": [-1],
+		"likert_scale": 1
+	},
+	{
+		"question_id": "11_30",
+		"questionnaire_flow": "post_test",
+		"questionnaire_type": "decision_making",
+		"question_group": "information_goals",
+		"question": "Analyze whether the goals interfere with each other.",
+		"answer_list": [-1],
+		"likert_scale": 1
+	},
+	{
+		"question_id": "11_32",
+		"questionnaire_flow": "post_test",
+		"questionnaire_type": "decision_making",
+		"question_group": "time_money_pressure",
+		"question": "Act quickly and precisely.",
+		"answer_list": [-1],
+		"likert_scale": 1
+	},
+	{
+		"question_id": "11_37",
+		"questionnaire_flow": "post_test",
+		"questionnaire_type": "decision_making",
+		"question_group": "information_goals",
+		"question": "Choose the appropriate actions for the decision.",
+		"answer_list": [-1],
+		"likert_scale": 1
+	},
+	{
+		"question_id": "11_40",
+		"questionnaire_flow": "post_test",
+		"questionnaire_type": "decision_making",
+		"question_group": "uncertainty",
+		"question": "Realize that circumstances may change.",
+		"answer_list": [-1],
+		"likert_scale": 1
+	},
+	{
+		"question_id": "11_41",
+		"questionnaire_flow": "post_test",
+		"questionnaire_type": "decision_making",
+		"question_group": "uncertainty",
+		"question": "Become aware if the decision leads to novelties",
+		"answer_list": [-1],
+		"likert_scale": 1
+	},
+	{
+		"question_id": "11_47",
+		"questionnaire_flow": "post_test",
+		"questionnaire_type": "decision_making",
+		"question_group": "consequences_of_decision",
+		"question": "Forsee the consequences of the decision.",
+		"answer_list": [-1],
+		"likert_scale": 1
+	},
+	{
+		"question_id": "11_49",
+		"questionnaire_flow": "post_test",
+		"questionnaire_type": "decision_making",
+		"question_group": "consequences_of_decision",
+		"question": "Overcome the negative consequences.",
+		"answer_list": [-1],
+		"likert_scale": 1
+	},
+	{
+		"question_id": "11_50",
+		"questionnaire_flow": "post_test",
+		"questionnaire_type": "decision_making",
+		"question_group": "consequences_of_decision",
+		"question": "Determine whether the consequences have long-term effects.",
+		"answer_list": [-1],
+		"likert_scale": 1
+	},
+	{
+		"question_id": "11_51",
+		"questionnaire_flow": "post_test",
+		"questionnaire_type": "decision_making",
+		"question_group": "time_money_pressure",
+		"question": "Make sure the established times are respected.",
+		"answer_list": [-1],
+		"likert_scale": 1
+	},
+	{
+		"question_id": "11_52",
+		"questionnaire_flow": "post_test",
+		"questionnaire_type": "decision_making",
+		"question_group": "time_money_pressure",
+		"question": "Determine whether costs match the money available.",
+		"answer_list": [-1],
+		"likert_scale": 1
+	},
+	{
+		"question_id": "11_53",
+		"questionnaire_flow": "post_test",
+		"questionnaire_type": "decision_making",
+		"question_group": "consequences_of_decision",
+		"question": "Accept responsibility for the decision.",
+		"answer_list": [-1],
+		"likert_scale": 1
+	},
+	{
+		"question_id": "11_55",
+		"questionnaire_flow": "post_test",
+		"questionnaire_type": "decision_making",
+		"question_group": "time_money_pressure",
+		"question": "Imagine economical options.",
+		"answer_list": [-1],
+		"likert_scale": 1
+	},
+	{
+		"question_id": "11_58",
+		"questionnaire_flow": "post_test",
+		"questionnaire_type": "decision_making",
+		"question_group": "uncertainty",
+		"question": "Appraise personal risk involved in the decision.",
+		"answer_list": [-1],
+		"likert_scale": 1
+	},
+	{
+		"question_id": "11_61",
+		"questionnaire_flow": "post_test",
+		"questionnaire_type": "decision_making",
+		"question_group": "time_money_pressure",
+		"question": "Compare results with time employed.",
+		"answer_list": [-1],
+		"likert_scale": 1
+	},
+	{
+		"question_id": "11_63",
+		"questionnaire_flow": "post_test",
+		"questionnaire_type": "decision_making",
+		"question_group": "time_money_pressure",
+		"question": "Compare results with money spent.",
+		"answer_list": [-1],
+		"likert_scale": 1
+	},
+	{
+		"question_id": "11_64",
+		"questionnaire_flow": "post_test",
+		"questionnaire_type": "decision_making",
+		"question_group": "uncertainty",
+		"question": "Know what the decision involves.",
+		"answer_list": [-1],
+		"likert_scale": 1
+	}
+]
